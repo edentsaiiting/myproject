@@ -5,3 +5,4 @@ sharing info feels funny!!
 i like to teach people
 
 git is a good tool
+changes done on local
